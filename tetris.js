@@ -18,6 +18,15 @@ class Mino {
         this.rot = rot;
         this.shape = shape;
     }
+
+    clacBlocks(){
+        let blocks = [
+            
+        ]
+    }
+    draw(){
+
+    }
 }
 
 class Field {
